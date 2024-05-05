@@ -1,0 +1,14 @@
+/Users/emiralkanat/RiderProjects/ConsoleApp1/park ucret/bin/Debug/net8.0/park ucret
+/Users/emiralkanat/RiderProjects/ConsoleApp1/park ucret/bin/Debug/net8.0/park ucret.deps.json
+/Users/emiralkanat/RiderProjects/ConsoleApp1/park ucret/bin/Debug/net8.0/park ucret.runtimeconfig.json
+/Users/emiralkanat/RiderProjects/ConsoleApp1/park ucret/bin/Debug/net8.0/park ucret.dll
+/Users/emiralkanat/RiderProjects/ConsoleApp1/park ucret/bin/Debug/net8.0/park ucret.pdb
+/Users/emiralkanat/RiderProjects/ConsoleApp1/park ucret/obj/Debug/net8.0/park ucret.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiralkanat/RiderProjects/ConsoleApp1/park ucret/obj/Debug/net8.0/park ucret.AssemblyInfoInputs.cache
+/Users/emiralkanat/RiderProjects/ConsoleApp1/park ucret/obj/Debug/net8.0/park ucret.AssemblyInfo.cs
+/Users/emiralkanat/RiderProjects/ConsoleApp1/park ucret/obj/Debug/net8.0/park ucret.csproj.CoreCompileInputs.cache
+/Users/emiralkanat/RiderProjects/ConsoleApp1/park ucret/obj/Debug/net8.0/park ucret.dll
+/Users/emiralkanat/RiderProjects/ConsoleApp1/park ucret/obj/Debug/net8.0/refint/park ucret.dll
+/Users/emiralkanat/RiderProjects/ConsoleApp1/park ucret/obj/Debug/net8.0/park ucret.pdb
+/Users/emiralkanat/RiderProjects/ConsoleApp1/park ucret/obj/Debug/net8.0/park ucret.genruntimeconfig.cache
+/Users/emiralkanat/RiderProjects/ConsoleApp1/park ucret/obj/Debug/net8.0/ref/park ucret.dll
